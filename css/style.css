@@ -1,0 +1,45 @@
+body{background: linear-gradient(to right, #DEE29F  , #A41B4D );font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif }
+
+div{position: absolute;
+margin : 10%;
+border : inset ;
+border-color: black;
+padding: 5px;
+width: auto;
+}
+
+img{width: 1em}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    
+}
+select{
+    height: inherit ;
+    width: inherit  ;
+    background-color: transparent;
+    border: none;
+    font-size: 100%
+}
+.lol{
+    background: #C3A222}
+
+
+.amani {
+    font-weight: bold
+}
+
+td:hover{
+    background: radial-gradient(circle, #A41B4D, rgba(255,0,0,0));
+    
+}
+input{
+    width: 4em;
+    height: 2em;
+    background: transparent;
+    border: none;
+}
